@@ -36,7 +36,7 @@ Döneminizi de dönem String'ine tanımladıktan sonra hazırsınız!
     let donem = '2019/2020-1'; // Dönem numarasını doğru girmeye özen gösteriniz.
 ```
 
-### Çalıştırma
+### Çalıştırma
 
 Artık yapmanız gereken tek şey
 
