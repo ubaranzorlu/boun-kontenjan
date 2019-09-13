@@ -1,0 +1,17 @@
+{
+  "name": "boun-kontenjan",
+  "version": "1.0.0",
+  "description": "Boğaziçi Üniversitesi ders seçimi sırasında derste kalan kontenjanları görmenizi sağlar, yer açılınca e-posta bildirimi gönderir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "UBZ <umut@baranzorlu.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "express": "^4.17.1",
+    "nodemailer": "^5.1.1"
+  }
+}
