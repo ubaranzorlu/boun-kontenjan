@@ -1,7 +1,7 @@
-let axios = require('axios');
-let express = require('express');
-let app = express();
-let nodemailer = require('nodemailer');
+const axios = require('axios');
+const express = require('express');
+const app = express();
+const nodemailer = require('nodemailer');
 const port = 1313;
 
 let lectures = [
